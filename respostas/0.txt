@@ -1,0 +1,8 @@
+Bem Vindo!!!
+Você está no chatbot do Grupo.
+Digite a opção desejada:
+1️⃣ Para o nome dos integrantes
+2️⃣ Para o nome do professor
+3️⃣ Para o nome da faculdade
+4️⃣ Para testar o envio de Pix.
+0️⃣  Para voltar ao Menu.
